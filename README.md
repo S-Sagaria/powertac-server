@@ -1,4 +1,4 @@
-# Power TAC Simulation Server
+# Power TAC Simulation Server "V2G"
 
 [![Join the chat at https://gitter.im/powertac/powertac-server](https://badges.gitter.im/powertac/powertac-server.svg)](https://gitter.im/powertac/powertac-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
